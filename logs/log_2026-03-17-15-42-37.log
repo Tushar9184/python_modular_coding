@@ -1,0 +1,11 @@
+[2026-03-17 15:42:37,405] root - INFO - Logging setup complete
+[2026-03-17 15:42:37,469] werkzeug - WARNING -  * Debugger is active!
+[2026-03-17 15:42:37,475] werkzeug - INFO -  * Debugger PIN: 133-490-548
+[2026-03-17 21:57:32,666] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\__init__.py', reloading
+[2026-03-17 21:57:32,677] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\app.py', reloading
+[2026-03-17 21:57:32,718] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\sansio\\app.py', reloading
+[2026-03-17 21:57:32,744] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\sansio\\scaffold.py', reloading
+[2026-03-17 21:57:32,773] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\typing.py', reloading
+[2026-03-17 21:57:32,779] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[2026-03-17 21:57:32,806] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+[2026-03-17 21:57:32,811] werkzeug - INFO -  * Detected change in 'C:\\Users\\sabha\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\datastructures\\headers.py', reloading

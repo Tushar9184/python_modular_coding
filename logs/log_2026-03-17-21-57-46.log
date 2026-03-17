@@ -1,0 +1,6 @@
+[2026-03-17 21:57:46,366] root - INFO - Logging setup complete
+[2026-03-17 21:57:46,394] werkzeug - WARNING -  * Debugger is active!
+[2026-03-17 21:57:46,399] werkzeug - INFO -  * Debugger PIN: 133-490-548
+[2026-03-17 22:31:29,741] werkzeug - INFO -  * Detected change in 'C:\\DataScience\\projects\\modularcoding\\python_modular_coding\\setup.py', reloading
+[2026-03-17 22:31:29,745] werkzeug - INFO -  * Detected change in 'C:\\DataScience\\projects\\modularcoding\\python_modular_coding\\src\\exception\\__init__.py', reloading
+[2026-03-17 22:31:29,745] werkzeug - INFO -  * Detected change in 'C:\\DataScience\\projects\\modularcoding\\python_modular_coding\\src\\logger\\__init__.py', reloading

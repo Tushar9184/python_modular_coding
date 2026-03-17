@@ -1,0 +1,7 @@
+[2026-03-17 14:55:25,041 werkzeug-WARNING- * Debugger is active!]
+[2026-03-17 14:55:25,048 werkzeug-INFO- * Debugger PIN: 133-490-548]
+[2026-03-17 14:56:21,125 root-INFO-we are testing our logging file]
+[2026-03-17 14:56:21,126 werkzeug-INFO-127.0.0.1 - - [17/Mar/2026 14:56:21] "GET / HTTP/1.1" 200 -]
+[2026-03-17 14:56:21,432 werkzeug-INFO-127.0.0.1 - - [17/Mar/2026 14:56:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2026-03-17 15:00:41,154 werkzeug-INFO- * Detected change in 'C:\\DataScience\\projects\\modularcoding\\python_modular_coding\\src\\logger\\__init__.py', reloading]
+[2026-03-17 15:00:41,158 werkzeug-INFO- * Detected change in 'C:\\DataScience\\projects\\modularcoding\\python_modular_coding\\src\\logger\\__init__.py', reloading]
